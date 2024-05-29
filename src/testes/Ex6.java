@@ -32,7 +32,7 @@ public class Ex6 {
 		QUADRADO = B * B;
 		RETANGULO = A * B;
 
-		System.out.printf("%.3f%n%.3f%n%.3f%n%.3f%n%.3f", TRIANGULO, CIRCULO, TRAPEZIO, QUADRADO, RETANGULO);
+		System.out.printf("TRIANGULO: %.3f%nCIRCULO: %.3f%nTRAPEZIO: %.3f%nQUADRADO: %.3f%nRETANGULO: %.3f", TRIANGULO, CIRCULO, TRAPEZIO, QUADRADO, RETANGULO);
 
 	}
 
